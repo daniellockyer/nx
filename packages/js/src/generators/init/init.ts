@@ -70,7 +70,6 @@ export async function initGenerator(
   return initGeneratorInternal(tree, {
     addTsConfigBase: true,
     formatter: 'prettier',
-    addPlugin: false,
     ...schema,
   });
 }
