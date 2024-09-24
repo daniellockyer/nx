@@ -58,7 +58,7 @@ export function CallToAction(): ReactElement {
         </h2>
         <div className="mt-10 flex items-center justify-center gap-x-6">
           <a
-            href="https://cloud.nx.app/nx-powerpack/purchase"
+            href="https://cloud.nx.app/powerpack/purchase"
             title="Get your Nx Powerapp license"
             className="rounded-md bg-slate-950 px-3.5 py-2.5 text-sm font-semibold text-slate-100 shadow-sm hover:bg-slate-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white dark:bg-white dark:text-slate-900 dark:hover:bg-slate-100"
           >

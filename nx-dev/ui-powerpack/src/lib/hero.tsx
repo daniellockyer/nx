@@ -15,7 +15,7 @@ export function Hero(): ReactElement {
         </SectionHeading>
         <div className="mt-10 text-center">
           <ButtonLink
-            href="https://cloud.nx.app/nx-powerpack/purchase?utm_source=nx.dev&utm_medium=referral&utm_campaign=nx-powerpackurl"
+            href="https://cloud.nx.app/powerpack/purchase?utm_source=nx.dev&utm_medium=referral&utm_campaign=nx-powerpackurl"
             title="Talk to the engineering team"
             variant="primary"
             size="default"
